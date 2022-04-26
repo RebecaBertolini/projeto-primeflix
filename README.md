@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# PrimeFlix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Sobre o projeto:
 
-## Available Scripts
+Este projeto foi desenvolvido junto ao curso de React da Udemy com o objetivo de criar um site simples utilizando a API da TMDB (The Movie Database) e treinar alguns conceitos de React aprendidos durante o curso.
 
-In the project directory, you can run:
+Foi criada uma interface onde o usuário tem acesso aos filmes lançados mais recentes e atualizados pela API, sendo possível acessar cada filme de forma individual e obter informações sobre ele.
+Neste projeto também houveram algumas modificações pessoais, visando uma melhor interface e melhor usabuilidade pelo usuário, mesmo que não fosse o objetivo pro projeto. Por isso, é possível verificar que o site se encontra totalmente responsivo e com maior facilidade para que o usuário consiga salvar os filmes escolhidos.
 
-### `npm start`
+## Layout do projeto:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![](src/components/img/pagina-inicial-1.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![](src/components/img/pagina-inicial-2.png)
 
-### `npm test`
+![](src/components/img/pagina-lista.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tecnologias utilizadas:
 
-### `npm run build`
+* HTML5
+* CSS3
+* JavaScript]
+* React JS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Autor
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+*Rebeca Bertolini Spósito*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Linkedin:
+<https://www.linkedin.com/in/rebeca-bertolini-spósito-544048200/>
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+E-mail:
+<rebeca.bertolinii@gmail.com>
