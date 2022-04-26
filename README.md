@@ -19,7 +19,7 @@ Neste projeto também houveram algumas modificações pessoais, visando uma melh
 
 * HTML5
 * CSS3
-* JavaScript]
+* JavaScript
 * React JS
 
 ## Autor
