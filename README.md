@@ -15,6 +15,8 @@ Neste projeto também houveram algumas modificações pessoais, visando uma melh
 
 ![](src/components/img/pagina-lista.png)
 
+Acesse o link e veja o projeto rodando: https://primeflix1.netlify.app
+
 ## Tecnologias utilizadas:
 
 * HTML5
